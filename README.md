@@ -4,7 +4,7 @@
 - 👀 I’m interested in full stack development, machine learning, software development.
 - 🌱 I’m currently learning MERN stack techs and machine learning algorithms side by side.
 - 💞️ I’m looking to collaborate on Full stack projects, machine learning projects.
-- 📫 How to reach me - https://portfolio-mritunjay.netlify.app/contact or hit me on linked-in.
+- 📫 How to reach me - Hit me on linked-in - https://www.linkedin.com/in/mritunjay-tomar/
 
 You can find me on
 
