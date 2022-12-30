@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on Full stack projects, machine learning projects.
 - 📫 How to reach me - Hit me on linked-in - https://www.linkedin.com/in/mritunjay-tomar/
 
-You can find me on
-
 <!---
 mritunjay-tomar/mritunjay-tomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
